@@ -39,4 +39,4 @@
 - Follow the steps for getting your client ID and Secret and whitelisting it as described in the PC section above
 - For audio capture to work, you must initialize your audio session with the kAudioSessionCategory_PlayAndRecord category
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/da4459390fa5c35119bd2f8c398e89f4 "githalytics.com")](http://githalytics.com/twitchsdk/twitchbins)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/55027e2a78c93b1aa80695a12354372f "githalytics.com")](http://githalytics.com/twitchsdk/twitchbins)
