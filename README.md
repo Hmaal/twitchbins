@@ -2,16 +2,16 @@
 
 ### Client ID
 In order to stream to your channel, you'll need to supply the SDK with your Twitch user name and password, as well as your application's Client ID and Client Secret. To get your Client ID and Secret:
-	- Go to twitch.tv and log into your account
-	- From the top right, click on your channel name and select Settings
-	- Select Applications
-	- Under Developer Applications, select Register your application
-	- Enter your application name and website and click Register
-	- On the next page you'll see your Client ID and Client Secret
-	- If you've already registered, you can just click Edit to see your Client ID and Client Secret
- 	- **IMPORTANT** 
-  		- If you can't embed our web based authentication into your game you'll need to provide us with this Client ID (e-mail brooke@twitch.tv) so that we can  whitelist it prior to streaming (no need to do this for the Client Secret)
-        - If your endpoint is api.justin.tv you have googled and stumbled across the old api we are currently depracating
+- Go to twitch.tv and log into your account
+- From the top right, click on your channel name and select Settings
+- Select Applications
+- Under Developer Applications, select Register your application
+- Enter your application name and website and click Register
+- On the next page you'll see your Client ID and Client Secret
+- If you've already registered, you can just click Edit to see your Client ID and Client Secret
+ - **IMPORTANT** 
+  	- If you can't embed our web based authentication into your game you'll need to provide us with this Client ID (e-mail brooke@twitch.tv) so that we can  whitelist it prior to streaming (no need to do this for the Client Secret)
+- If your endpoint is api.justin.tv you have googled and stumbled across the old api we are currently depracating
 
 ###Win32
 - Add the SDK include directory to your game's include path and include twitchsdk.h
