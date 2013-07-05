@@ -2,6 +2,10 @@
 
 Note: These updates are Unity-specific and are in addition to updates that can be found in the native SDK releases.
 
+####July 5, 2013
+- Fixed an issue with IngestTester which may have caused it to fail to start.
+- Reduced the amount of time frames will queue for if your internet connection is too slow for your broadcast settings.
+
 ####June 20, 2013
 - Fixed compile and linking issues when building for iOS or WebPlayer.  
 - The ca-cert-bundle file is now a resource and does not need to be copied manually when performing a build.  It is saved out to disk when needed in Application.temporaryCachePath.  
