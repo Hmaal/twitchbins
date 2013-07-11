@@ -9,7 +9,7 @@ In order to stream to your channel, you'll need to supply the SDK with your Twit
 - Enter your application name and website and click Register
 - On the next page you'll see your Client ID and Client Secret
 - If you've already registered, you can just click Edit to see your Client ID and Client Secret
- - **IMPORTANT** If you can't embed our web based authentication into your game you'll need to provide us with this Client ID (e-mail brooke@twitch.tv) so that we can  white-list it prior to streaming (no need to do this for the Client Secret)
+ - **IMPORTANT** If you can't embed our [web based authentication]{ https://github.com/justintv/Twitch-API/blob/master/authentication.md} into your game you'll need to provide us with this Client ID (e-mail brooke@twitch.tv) so that we can  white-list it prior to streaming (no need to do this for the Client Secret)
 - If your endpoint is api.justin.tv you have googled and stumbled across the old api we are currently deprecating
 
 ###Win32
